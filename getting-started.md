@@ -5,6 +5,8 @@
  
 <div dir="rtl">
 
+# شروع [Getting Started]
+
 قبل از کندوکاو در Langium، اجازه دهید محیط شما را برای توسعه آماده کنیم:
   
 1. شما باید [محیط Node](https://nodejs.org/en/download/) ورژن 12 یا بیشتر داشته باشید. 
@@ -23,8 +25,8 @@ npm i -g yo generator-langium
 yo langium
 ```
  
-نرم افزار Yeoman از شما چند سوال اساسی در مورد DSL شما میپرسد:
- 
+**نرم افزار Yeoman از شما چند سوال اساسی در مورد DSL شما میپرسد:**
+
 1. _Extension name_:
 
 برای اسم فولدر اکستنشن شما و `package.json` آن استفاده میشود.
@@ -52,7 +54,7 @@ code hello-world
 زبان `hello-world` دو نوع موجودیت را می پذیرد: موجودیت `person` و `Hello`.
 در اینجا یک مثال سریع در مورد نحوه استفاده از هر دو آنها آورده شده است:
 
-```
+```bash
 person Alice
 Hello Alice!
 
