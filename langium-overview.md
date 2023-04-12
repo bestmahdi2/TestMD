@@ -108,7 +108,7 @@ instance.y(); // Symbol `y` exists in the scope of the `X` class
 
 ## پشتیبانی ویرایش 
  
-چارچوب Langium عمیقاً با [پروتکل سرور زبان] (https://microsoft.github.io/language-server-protocol/) (LSP) یکپارچه شده است.
+چارچوب Langium عمیقاً با [پروتکل سرور زبان](https://microsoft.github.io/language-server-protocol/) (LSP) یکپارچه شده است.
 هدف LSP کاهش تلاش‌های یکپارچه‌سازی هنگام طراحی یک زبان با ارائه رابطی است که همه IDEها می‌توانند از آن برای ارائه پشتیبانی ویرایش استفاده کنند.
 این به زبان های مبتنی بر Langium اجازه می دهد تا به راحتی با IDE ها و ویرایشگرهای رایج با پشتیبانی LSP، از جمله Visual Studio Code، Eclipse، IntelliJ و بسیاری دیگر تعامل داشته باشند.
  
@@ -121,5 +121,5 @@ instance.y(); // Symbol `y` exists in the scope of the `X` class
 می‌توانید بیشتر این ویژگی‌ها را با استفاده از [showcase](/showcase/) و [playground](/playground/) ما امتحان کنید.
 زبان های نشان داده شده در آنجا با استفاده از Langium نوشته شده و در ویرایشگر monaco ادغام شده اند.
  
-اگر به Langium علاقه مند هستید، می توانید صفحه [شروع] (/docs/getting-started) ما را در ادامه بررسی کنید.
+اگر به Langium علاقه مند هستید، می توانید صفحه [شروع](/docs/getting-started) ما را در ادامه بررسی کنید.
 در آنجا یاد خواهید گرفت که چگونه نوشتن زبان اول خود را شروع کنید و درباره اینکه چگونه Langium می تواند به شما در دستیابی به اهداف طراحی زبان کمک کند، بیشتر بیاموزید.
