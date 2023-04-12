@@ -15,6 +15,6 @@
 
 ## میخواهید مشارکت کنید؟
  
-برای مشارکت در بهبود Langium از [مخزن Langium] (https://github.com/langium/langium) دیدن کنید.
+برای مشارکت در بهبود Langium از [مخزن Langium](https://github.com/langium/langium) دیدن کنید.
 
 </div>
